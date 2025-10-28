@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Treasure, Welcome to my Github🎉</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=14b8a6&center=true&vCenter=true&width=500&lines=Frontend+Engineer;Let's+make+cool+stuff+together!%2B;React+%7C+Next.js+%7C+Tailwind+%7C+TypeScript;Always+learning+and+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=14b8a6&center=true&vCenter=true&width=500&lines=Frontend+Engineer;Let's+make+cool+stuff+together!;React+%7C+Next.js+%7C+Tailwind+%7C+TypeScript;Always+learning+and+building" alt="Typing SVG" />
 </p>
 
 ---
