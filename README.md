@@ -10,7 +10,7 @@
 
 - 🎯 Frontend Engineer focused on building sleek, intuitive web apps.
 - 🎨 Passionate about great UI/UX and accessible design.
-- 🌱 Currently exploring: **Next.js 14**, **TypeScript**, **Fullstack Apps** and **Web animations**.
+- 🌱 Currently exploring: **Next.js**, **TypeScript**, **Fullstack Apps** and **Web animations**.
 - 🛠️ Tech Stack: React, Next.js, TypeScript, Tailwind CSS, Git
 
 ---
@@ -32,7 +32,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=treasureaiyedun&theme=radical&hide_border=true" height="160" />
   <img src="https://github-readme-stats.vercel.app/api?username=treasureaiyedun&show_icons=true&theme=radical&hide_border=true" height="160" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=treasureaiyedun&layout=compact&theme=radical&hide_border=true" height="160" />
 </p>
 
